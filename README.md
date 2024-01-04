@@ -38,7 +38,7 @@ This repository provides SQL scripts for setting up a PostgreSQL database, creat
 ## Other Topics
 
 1. **[Deadlock Simulation:](https://github.com/dwinanto34/PostgreSQL/blob/main/deadlock.sql)**
-   Simulate a deadlock scenario between two transactions.
+   Simulate a deadlock scenario between two transactions and the solutions.
 
 2. **[Prevent Race Condition:](https://github.com/dwinanto34/PostgreSQL/blob/main/race_condition.sql)**
    Address race conditions using `SELECT ... FOR UPDATE` for data consistency.
